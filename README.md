@@ -7,9 +7,9 @@ The analysis showcases the relationship between the type of city and the number 
 
 ## Resources
 - Data source:
-    - city_data.csv
-    - PyBer_ride_data.csv
-    - ride_data.csv
+    - [city_data.csv](Resources/city_data.csv)
+    - [PyBer_ride_data.csv](Resources/PyBer_ride_data.csv)
+    - [ride_data.csv](Resources/ride_data.csv)
 
 - Technologies:
     - Python, Jupyter Notebook, Pandas, Matplotlib, Visual Studio Code 1.43.1
